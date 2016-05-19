@@ -1,0 +1,19 @@
+html {
+	background-color: white;
+}
+
+
+body {
+	background-color: pink;
+}
+p {
+	color: blue;
+}
+
+
+.section {
+	background-color: red;
+	text-align: center;
+	font-family: courier;
+	font-size: 200%;
+}
